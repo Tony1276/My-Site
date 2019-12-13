@@ -1,3 +1,44 @@
 body {
-    background-color: blue;
+    margin: 0;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 562.5%;
+    margin-top: 0;
+    font-family: 'Satisfy', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top {
+    position: relative;
+    padding-top: 100px;
+    background-color: #e3fdfd;
+}
+
+.middle {}
+
+.bottom {}
+
+.software {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    left: 900px;
+    top: 30px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
 }
