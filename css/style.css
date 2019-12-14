@@ -2,20 +2,31 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
 }
 
 h1 {
-    font-size: 562.5%;
-    margin-top: 0;
+    font-size: 5.625rem;
+    line-height: 2;
+    color: #66BFBF;
+    margin: 50px, auto, 100px, auto;
     font-family: 'Satisfy', cursive;
 }
 
 h2 {
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: #66BFBF;
     font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
+    color: #11999E;
     font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #11999E;
 }
 
 .top {
