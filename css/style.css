@@ -35,9 +35,66 @@ a {
     background-color: #e3fdfd;
 }
 
-.middle {}
+.middle-container {
+    margin: 5%;
+}
 
-.bottom {}
+.bottom-container {
+    padding-top: 3em;
+    background-color: #66BFBF;
+    height: 150px;
+}
+
+.footer-link {
+    padding: 10px;
+    margin: 10px, auto, 10px, auto;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.developmentSkill {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.TTSkill {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.profileImg {
+    border-radius: 50%;
+}
+
+.dottedLinesSkill1 {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5%;
+    width: 10%;
+    border-color: black;
+}
+
+.dottedLinesSkill2 {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10%;
+    width: 10%;
+    border-color: black;
+}
+
+.profileDescr {
+    width: 50%;
+    margin: 0 auto 10% auto;
+}
 
 .software {
     text-decoration: underline;
@@ -51,5 +108,9 @@ a {
 
 .bottom-cloud {
     position: absolute;
-    left: 400px;
+    left: 350px;
+}
+
+.copywrite {
+    color: white;
 }
